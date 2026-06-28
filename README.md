@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Muhammad Abdullah Khan
 
-<!--
-**abdullahk970/abdullahk970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> AI/ML Developer | LangChain & RAG Systems | Python | FastAPI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a Python developer specializing in AI/LLM applications, RAG systems, and backend API development. I focus on building intelligent chatbots and AI agents.
+
+---
+
+## 💻 Technical Skills
+
+- **Languages:** Python, C, SQL , Dart  
+- **Frameworks:** FastAPI, Flask, LangChain , Flutter , HTML/CSS 
+- **AI/ML:** LLMs, RAG Systems, NLP  
+- **Databases:** PostgreSQL, ChromaDB  
+- **Tools:** Git, Docker, Ollama  
+
+---
+
+## ⭐ Featured Projects
+
+### 🧠 Pakistan Law Chatbot (RAG System)
+AI legal assistant using LangChain + ChromaDB + Ollama
+
+### 🤖 LangChain RAG + AI Agent System
+AI system with document QA + tool-based agents
+
+### 🚀 FastAPI CRUD School System
+REST API for school management using FastAPI + SQLAlchemy
+
+### 📄 AI Resume Analyzer ⭐
+AI-powered resume analysis tool that evaluates CVs and gives feedback
+- 📊 Analyzes resume structure and content
+- 🧠 Suggests improvements for ATS optimization
+- 💡 Highlights missing skills and keywords
+- 🚀 Helps improve job application success rate
+  
+---
+
+## 📊 GitHub Stats
+
+(Add later using GitHub stats badge)
+
+---
+
+## 🤝 Contact
+
+- Email: m.abdullah.khan766924@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/abdullah-khan-9b0980316?  
