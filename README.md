@@ -41,6 +41,12 @@ AI-powered resume analysis tool that evaluates CVs and gives feedback
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahk970&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdullahk970)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahk970)
+
 (Add later using GitHub stats badge)
 
 ---
